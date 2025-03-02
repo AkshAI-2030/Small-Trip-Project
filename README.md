@@ -19,7 +19,7 @@ Trip is a hotel listing platform that provides hotel details from around the wor
 ## Setup & Deployment
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AkshAI-2030/Small-Trip-Project
+   git clone https://github.com/AkshAI-2030/Small-Trip-Project.git
    ```
 2. Install dependencies:
    ```sh
