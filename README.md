@@ -3,6 +3,19 @@
 ## Overview
 Trip is a hotel listing platform that provides hotel details from around the world. Users can filter hotels by category, amenities, and country, as well as sort by pricing, ratings, and reviews.
 
+## Live Demo & Resources
+<div>
+    <a href="https://www.loom.com/share/1fead885eada49148659d8cc8e523037">
+      <p>Small-Trip-Project-VideoDemo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1fead885eada49148659d8cc8e523037">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1fead885eada49148659d8cc8e523037-a6cf2411ef1cedbe-full-play.gif">
+    </a>
+  </div>
+  
+- **StackBlitz URL:** [StackBlitz Project](https://stackblitz.com/~/github.com/AkshAI-2030/Small-Trip-Project)
+- **Deployed URL:** [Trip API](https://small-trip-project-akshay.vercel.app/)
+
 ## Setup & Deployment
 1. Clone the repository:
    ```sh
@@ -14,7 +27,7 @@ Trip is a hotel listing platform that provides hotel details from around the wor
    ```
 3. Start the server:
    ```sh
-   npm start
+   node index.js
    ```
 
 ## API Endpoints
@@ -49,11 +62,6 @@ Trip is a hotel listing platform that provides hotel details from around the wor
   let cors = require('cors');
   app.use(cors());
   ```
-
-## Live Demo & Resources
-- **Live Video Demo:** [Click Here](#)
-- **StackBlitz URL:** [StackBlitz Project](https://stackblitz.com/~/github.com/AkshAI-2030/Small-Trip-Project)
-- **Deployed URL:** [Trip API](https://small-trip-project-akshay.vercel.app/)
 
 ## Conclusion
 This API provides powerful filtering and sorting options for hotel listings, enhancing the Trip booking experience.
